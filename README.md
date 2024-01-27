@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @ProfGregL
 - 👀 I teach upper level Computer Science classes at Texas State University
-- This repo is for Competitive Coding for Beginners
-- A weekend free class on Saturday afternoons to teach good coders how to do ICPC coding problems
-- and to be able to compete in ICPC contests as well as others
-
-- This class supports my ongoing mission to prepare Computer Science students to do well in technical interviews and get great jobs.
-
+- including Algorithms and Analysis, Computer Architecture, and an advanced Data Structures section
+- I teach and coach competitive coding
+- My research interests are probabalistic fraud and threat detection
+- My personal interests are hacking and embedded commmunications
+- I am always looking for companies in the Central Texas Area that are interested in student interns and joint projects
 - You can reach me at: greg@txstate.edu
 
 
